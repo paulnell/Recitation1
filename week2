@@ -1,0 +1,2 @@
+S='I am a UB student'
+print(S[-1])
